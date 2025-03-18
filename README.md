@@ -16,4 +16,5 @@ SVOLGIMENTO
 1- Definisco una variabile word e la inizializzo con il valore `FizzBuzz`
 2- creo il ciclo for
 3- Apro il primo blocco if in cui stampo la variabile `FizzBuzz` per intero solo nel caso il valore di i sia divisibile sia per 3 sia per 5 con resto 0
-4- Apro il secondo blocco if in cui stampo la prima parte della variabile `FizzBuzz`, ovvero `Fizz` solo nel caso il valore di i sia divisibile per 3 con resto 0
+4- Apro il secondo blocco if in cui stampo la prima parte della variabile `FizzBuzz`, ovvero `Fizz`, solo nel caso il valore di i sia divisibile per 3 con resto 0
+5- Apro il terzo blocco if in cui stampo la seconda parte della variabile `FizzBuzz`, ovvero `Buzz`, solo nel caso il valore di i sia divisibile per 5 con resto 0
