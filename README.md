@@ -18,3 +18,4 @@ SVOLGIMENTO
 3- Apro il primo blocco if in cui stampo la variabile `FizzBuzz` per intero solo nel caso il valore di i sia divisibile sia per 3 sia per 5 con resto 0
 4- Apro il secondo blocco if in cui stampo la prima parte della variabile `FizzBuzz`, ovvero `Fizz`, solo nel caso il valore di i sia divisibile per 3 con resto 0
 5- Apro il terzo blocco if in cui stampo la seconda parte della variabile `FizzBuzz`, ovvero `Buzz`, solo nel caso il valore di i sia divisibile per 5 con resto 0
+6- Apro il quarto blocco if in cui stampo il valore di i nel caso il suo valore non è divisibile ne per 3 ne per 5
