@@ -11,3 +11,7 @@ Consigli del giorno:
 1- scriviamo sempre prima dei commenti in italiano per capire cosa vogliamo fare
 2- proviamo ad immaginare le operazioni che vogliamo far svolgere al nostro programma così come lo faremmo "a mano"
 Buon lavoro e buon divertimento!
+
+SVOLGIMENTO
+1- Definisco una variabile word e la inizializzo con il valore `FizzBuzz`
+2- creo il ciclo for
